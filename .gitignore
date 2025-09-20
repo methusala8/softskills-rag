@@ -31,3 +31,8 @@ vector_db/
 .env
 __pycache__/
 *.ipynb
+*.egg-info/ 
+__pycache__/ 
+*.pyc 
+.env 
+data/temp/ 
