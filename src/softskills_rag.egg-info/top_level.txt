@@ -1,0 +1,3 @@
+core
+softskills_rag
+utils
