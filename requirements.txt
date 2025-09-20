@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+gradio
+rank-bm25
+plotly
+scikit-learn
+sentence-transformers
