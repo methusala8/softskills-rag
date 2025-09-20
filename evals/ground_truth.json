@@ -1,0 +1,27 @@
+[
+  {
+    "query": "What are the three main appeals Aristotle identified for persuasion?",
+    "relevant_article_titles": ["The Art of Persuasion: Understanding the Basics"],
+    "expected_answer": "Aristotle identified three primary modes of persuasion: ethos (credibility or trustworthiness), pathos (appealing to emotions), and logos (appealing to logic and reason)."
+  },
+  {
+    "query": "According to Cialdini, why do people tend to comply with requests if they feel they owe something?",
+    "relevant_article_titles": ["Robert Cialdini: 'Influence: The Psychology of Persuasion' - 10 Main Points"],
+    "expected_answer": "According to Cialdini's principle of Reciprocity, people are more likely to comply with a request if they feel they owe you something, often triggered by a gift, favor, or concession, reflecting a human tendency to repay what they've received."
+  },
+  {
+    "query": "How does smiling contribute to winning friends and influencing people?",
+    "relevant_article_titles": ["Dale Carnegie: 'How to Win Friends and Influence People' - 10 Main Points"],
+    "expected_answer": "Dale Carnegie states that a simple, sincere smile is a powerful non-verbal signal that conveys warmth, friendliness, and approachability, helping to disarm people and create a positive first impression, making them more receptive to influence."
+  },
+  {
+    "query": "Which learnable elements of charisma involve non-verbal communication and active listening?",
+    "relevant_article_titles": ["The Learnable Elements of Charisma for Persuasion"],
+    "expected_answer": "Learnable elements of charisma include mastering non-verbal communication (like eye contact, open gestures, confident posture, and a genuine smile) and active listening, which involves being fully present and engaged, asking clarifying questions, and making others feel valued."
+  },
+  {
+    "query": "What are the two foundational components of emotional intelligence?",
+    "relevant_article_titles": ["Emotional Intelligence: The Bedrock of Effective Influence"],
+    "expected_answer": "The two foundational components of emotional intelligence are self-awareness (recognizing and understanding one's own emotions and their effect on others) and self-regulation (controlling disruptive impulses and moods, and thinking before acting)."
+  }
+]
