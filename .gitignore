@@ -1,0 +1,33 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# VSCode config
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Gradio cache
+gradio_cached_examples/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+vector_db/
+
+.venv/.env 
+.env
+.venv/
+vector_db/
+.env
+__pycache__/
+*.ipynb
